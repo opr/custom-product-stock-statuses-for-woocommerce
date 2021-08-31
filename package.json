@@ -1,0 +1,20 @@
+{
+  "name": "custom-product-stock-statuses-for-woocommerce",
+  "version": "1.0.0",
+  "description": "=== Custom Product Stock Statuses for WooCommerce === Contributors: opr Tags: woocommerce, woo commerce, products, stock, custom stock status Requires at least: 4.0 Tested up to: 5.8 Requires PHP: 7.0 Stable tag: 1.0.0 License: GPLv3 License URI: https://www.gnu.org/licenses/gpl-3.0.html",
+  "main": "index.js",
+  "scripts": {
+    "archive": "composer archive --file=$npm_package_name --format=zip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opr/custom-product-stock-statuses-for-woocommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opr/custom-product-stock-statuses-for-woocommerce/issues"
+  },
+  "homepage": "https://github.com/opr/custom-product-stock-statuses-for-woocommerce#readme"
+}
