@@ -15,7 +15,8 @@
     "exclude": [
       "!/build",
       "composer.json",
-      "package.json"
+      "package.json",
+      ".gitignore"
     ]
   }
 }
